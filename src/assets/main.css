@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.wrapper.slide-left {
+  transform: translateX(100px);
+}
+
+.wrapper.slide-right {
+  transform: translateX(-100px);
+}
